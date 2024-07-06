@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--K4nEDItj--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgl5ma6enovkbrpyhmcp.png)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/63138398/236623085-7a6e89ca-0add-4a5e-b91d-2ef5b36b15b1.png)(https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm shruti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img aling="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/87/fb/17/87fb172a27025681da76b0ce36b8b3b0.jpg">
+<h3 align="center">A passionate frontend developer from India
+A vibrant B.Tech student in Electronics & Communication Engineering, characterized by a fervent curiosity and a penchant for creative thinking. Embraces the opportunity to delve into novel technologies with enthusiasm and zeal for learning.</h3>
+<img aling="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/manish-shrivastava/manish-shrivastava/master/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002shruti&label=Profile%20views&color=0e75b6&style=flat" alt="2002shruti" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -37,4 +38,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2002shruti&show_icons=true&locale=en" alt="2002shruti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2002shruti&" alt="2002shruti" /></p>
-
